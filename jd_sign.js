@@ -12,7 +12,7 @@ const cookie = process.env.JD_COOKIE
 // 京东Cookie
 const dual_cookie = process.env.JD_DUAL_COOKIE
 // 京东Cookie
-const wang_cookie = process.env.JD_wang_COOKIE
+const wang_cookie = process.env.JD_WANG_COOKIE
 // Server酱SCKEY
 const push_key = process.env.PUSH_KEY
 
